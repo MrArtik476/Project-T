@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "d7016eceaa29f8d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "704705815c9feee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073c54e0c697cba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Планы (проект без кода)/Проект/План работы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "План работы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79e56b8cd8912a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0037268a4b757cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0668ec5dff4f504",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0e100965ff370f1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4df4d89360d61622",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0920394382ad5d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "345da8bada03eb4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2513257fdf9cabb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "fc576b62769924c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "b3eb52a22e71881e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6b8b3ea74662a1eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "7dff1c862919970c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "cca2e90c2983a4fd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "073c54e0c697cba4",
+  "lastOpenFiles": [
+    "Планы (проект без кода)/Проект/Проект Т.md",
+    "Планы (проект без кода)/Проект/Игрок.md",
+    "Планы (проект без кода)/Проект/Концепт.md",
+    "Планы (проект без кода)/Проект/Органы/Органы.md",
+    "Планы (проект без кода)/Проект/Органы/Сердце.md",
+    "Планы (проект без кода)/Проект/План работы.md",
+    "Code",
+    "Новая папка",
+    "Untitled Kanban.md",
+    "Планы (проект без кода)",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Excalidraw/Drawing 2026-07-07 19.11.27.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-07 19.11.26.excalidraw.md",
+    "Excalidraw/Drawing 2026-07-07 19.11.25.excalidraw.md",
+    "Excalidraw",
+    "Планы (проект без кода)/Проект/interaction system.md",
+    "Планы (проект без кода)/Проект/Project T.base",
+    "Планы (проект без кода)/Проект/Передвижение по телу/Вены.md",
+    "Планы (проект без кода)/Проект/Передвижение по телу/артерии.md",
+    "Планы (проект без кода)/Проект/Звук.md",
+    "Планы (проект без кода)/Проект/Движок.md",
+    "Планы (проект без кода)/Проект/Доска.canvas",
+    "Планы (проект без кода)/Проект/Fish-Net.md",
+    "Планы (проект без кода)/Проект",
+    "Планы (проект без кода)/Проект/Unity.md",
+    "Планы (проект без кода)/Проект/Кто будет работать.md",
+    "Планы (проект без кода)/Проект/Техническая часть.md",
+    "Планы (проект без кода)/Проект/Язык.md",
+    "Планы (проект без кода)/Проект/Органы/Мозг.md",
+    "Планы (проект без кода)/Проект/Стиль.md",
+    "__MACOSX/Project_/Передвижение по телу",
+    "__MACOSX/Project_/Органы",
+    "Планы (проект без кода)/Проект/Передвижение по телу/тромб.md",
+    "Планы (проект без кода)/Проект/Передвижение по телу/Навигация.md",
+    "Планы (проект без кода)/Проект/Тело.md",
+    "Планы (проект без кода)/Проект/тактильный отклик.md"
+  ]
+}
